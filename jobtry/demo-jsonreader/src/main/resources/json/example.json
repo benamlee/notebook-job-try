@@ -1,0 +1,13 @@
+{
+  "a": {
+    "b": "file",
+    "c": "File",
+    "d": {
+      "e": [
+        {"value": "dsf", "onclick": "12"},
+        {"value": "fs", "onclick": "atr"},
+        {"value": "11d", "onclick": "isa"}
+      ]
+    }
+  }
+}
